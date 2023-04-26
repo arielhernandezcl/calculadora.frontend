@@ -13,5 +13,7 @@ Para ejecutar puedes efectuar un git clone del repositorio git@github.com:arielh
 
 Pudees visualizar con Vistual Studio Code y con la extencion Live Server, poder visualizar en forma local
 
-Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+Live Server Extension https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Demo Calculadora https://plankton-app-zh5pw.ondigitalocean.app/
 
