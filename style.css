@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    margin: auto;
+    display: block;
+    width: 600px;
+    padding: 100px;
+    background-color: transparent;
+
+}
+
+.container {
+    padding: 15px;
+    border: 1px solid grey;
+    background-color: rgba(105, 207, 194, 0.781)
+}
+
+.display-calculadora {
+    padding: 25px 15px;
+    text-align: right;
+    border: 1px solid grey;
+    font-size: 50px;
+}
+
+.teclado {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.boton {
+    width: 25%;
+    padding: 15px 0;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgba(33, 213, 236, 0.747);
+    border: 1px solid grey;
+}
+
